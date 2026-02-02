@@ -1,0 +1,15 @@
+{
+  "AUTH": [
+    "auth",
+    "authentication",
+    "identity",
+    "id",
+    "ids",
+    "profile",
+    "profiles",
+    "settings",
+    "preferences",
+    "me",
+    "myaccount"
+  ]
+}
