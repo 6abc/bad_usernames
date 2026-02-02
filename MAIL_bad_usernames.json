@@ -1,0 +1,16 @@
+{
+  "MAIL": [
+    "mailer",
+    "mailer-daemon",
+    "bounce",
+    "bounces",
+    "daemon",
+    "nobody",
+    "anonymous",
+    "null",
+    "void",
+    "spam",
+    "abuse-report",
+    "feedback"
+  ]
+}
