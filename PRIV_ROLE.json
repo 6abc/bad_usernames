@@ -1,0 +1,24 @@
+{
+  "PRIV_ROLE": [
+    "superuser",
+    "superadmin",
+    "owner",
+    "founder",
+    "staff",
+    "moderator",
+    "mod",
+    "admin1",
+    "admin2",
+    "ops",
+    "operator",
+    "operations",
+    "devops",
+    "infra",
+    "it",
+    "itadmin",
+    "securityadmin",
+    "auditor",
+    "compliance",
+    "risk"
+  ]
+}
