@@ -1,0 +1,26 @@
+{
+  "DEPT":
+  [
+    "company",
+    "corporate",
+    "team",
+    "teams",
+    "hr",
+    "humanresources",
+    "finance",
+    "billing",
+    "payments",
+    "accounts",
+    "accounting",
+    "legal",
+    "press",
+    "media",
+    "pr",
+    "partnership",
+    "partnerships",
+    "vendors",
+    "careers",
+    "jobs",
+    "recruitment"
+  ]
+}
