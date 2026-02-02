@@ -1,0 +1,25 @@
+{
+  "INFR": [
+    "api",
+    "apis",
+    "auth",
+    "oauth",
+    "login",
+    "logout",
+    "signin",
+    "signup",
+    "register",
+    "callback",
+    "redirect",
+    "dashboard",
+    "console",
+    "panel",
+    "controlpanel",
+    "cpanel",
+    "status",
+    "health",
+    "metrics",
+    "monitor",
+    "monitoring"
+  ]
+}
